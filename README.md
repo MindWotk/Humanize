@@ -316,7 +316,7 @@ Página de contato
 | Isabela dos Santos Pinto  | 563422 | [https://github.com/devbelasp](https://github.com/devbelasp)           | [https://www.linkedin.com/in/isabela-dos-santos-pinto-31268b353/?locale=pt_BR](https://www.linkedin.com/in/isabela-dos-santos-pinto-31268b353/?locale=pt_BR) |
 | Manuela de Lacerda Soares | 564887 | [https://github.com/manuelalacerda](https://github.com/manuelalacerda) | [https://www.linkedin.com/in/manuela-lacerda-2a6194200/](https://www.linkedin.com/in/manuela-lacerda-2a6194200/)                                             |
 
----
+
 
 ## 10. Links do Projeto
 
@@ -324,6 +324,6 @@ Página de contato
 | :--------------------------- | :--- |
 | **GitHub**                   | []() |
 | **Vídeo no YouTube**         | []() |
-| **Link do deploy na Vercel** | []() |
+| **Link do deploy na Vercel** | [https://humanize-six.vercel.app/](https://humanize-six.vercel.app/) |
 
----
+
