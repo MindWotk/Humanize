@@ -79,8 +79,8 @@ Para executar o front-end do **Humanize**, siga os passos abaixo:
 1. **Clone o repositório:**
 
    ```bash
-   git clone [SEU_LINK_DO_GITHUB]
-   cd HUMANIZE
+   git clone [https://github.com/MindWotk/Humanize.git]
+   cd Humanize
    ```
 
 2. **Instale as dependências do projeto:**
@@ -135,7 +135,21 @@ A tabela abaixo lista as credenciais de teste para visualizar as diferentes func
 │   │    ├── foto-isabela.jpeg
 │   │    ├── foto-manuela.jpg
 │   │    ├── fundo.png
-│   │    └── logo-humanize.png
+│   │    ├── logo-humanize.png
+│   │    ├── tela-admin-funcionarios.png
+│   │    ├── tela-admin-recursos.png
+│   │    ├── tela-auditoria.png
+│   │    ├── tela-checkin.png
+│   │    ├── tela-contato.png
+│   │    ├── tela-dashboard.png
+│   │    ├── tela-faq.png
+│   │    ├── tela-inicial-claro.png
+│   │    ├── tela-inicial-escuro.png
+│   │    ├── tela-integrantes.png
+│   │    ├── tela-login.png
+│   │    ├── tela-perfil.png
+│   │    ├── tela-recursos.png
+│   │    └── tela-sobre.png
 │   │
 ├── src/
 │   ├── components/
@@ -322,8 +336,8 @@ Página de contato
 
 | Plataforma                   | Link |
 | :--------------------------- | :--- |
-| **GitHub**                   | []() |
-| **Vídeo no YouTube**         | []() |
+| **GitHub**                   | [https://github.com/MindWotk/Humanize.git](https://github.com/MindWotk/Humanize.git) |
+| **Vídeo no YouTube**         | [https://youtu.be/hxwakyjSVbQ](https://youtu.be/hxwakyjSVbQ) |
 | **Link do deploy na Vercel** | [https://humanize-six.vercel.app/](https://humanize-six.vercel.app/) |
 
 
